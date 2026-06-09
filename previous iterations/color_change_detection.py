@@ -2,6 +2,8 @@
 #Author: Paras Khosla
 #Date: 07-06-2024
 #
+#Final delivered version
+#
 #Description:Utilizing the OpenCV library, this program is designed to detect color changes by employing pre-defined HSV values for the color Burgandi. 
 #            *It further incorporates a Region of Interest (ROI) box to focus on specific areas within the video stream.
 #            *It also records video immediately when the program starts and cut the video after 10 seconds if color change detected.
