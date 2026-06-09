@@ -135,14 +135,13 @@ File:
 opencv-color-change-detection/
 │
 ├── src/
-│   └── color_change_detection.py
+│   └── integrated_detection_system.py
 │
 ├── previous-iterations/
 │   ├── yellow_color_detection.py
 │   ├── roi_color_detection.py
 │   ├── multi_color_detection.py
-│   ├── integrated_detection_system.py
-│   └── video_duration_tracker.py
+│   └── color_change_detection.py
 │
 ├── tests/
 │   ├── test_yellow_detection.py
